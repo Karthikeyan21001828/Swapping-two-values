@@ -29,6 +29,7 @@ y=t
 print("Swapped values are:",x, y)
 ```
 ## OUTPUT:
+
 ![output](output.png)
 
 ## RESULT:
