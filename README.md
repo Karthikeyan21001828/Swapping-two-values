@@ -30,7 +30,7 @@ print("Swapped values are:",x, y)
 ```
 ## OUTPUT:
 
-![output](C:\Users\Karthik\Documents\python record\Swapping-two-values\OUTPUT.png)
+![output](output.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
