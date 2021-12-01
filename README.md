@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
+~~~
 #Program to swap two values.
 #Developed by: Karthikeyan.K
 #RegisterNumber:21001828
@@ -27,7 +27,7 @@ t=x
 x=y
 y=t
 print("Swapped values are:",x, y)
-```
+~~~
 ## OUTPUT:
 
 ![output](output.png)
